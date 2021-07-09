@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/graphinfo/static/js/main.4df621c5.chunk.js",
+    "main.js.map": "/graphinfo/static/js/main.4df621c5.chunk.js.map",
+    "runtime-main.js": "/graphinfo/static/js/runtime-main.e53b7929.js",
+    "runtime-main.js.map": "/graphinfo/static/js/runtime-main.e53b7929.js.map",
+    "static/js/2.cce8b632.chunk.js": "/graphinfo/static/js/2.cce8b632.chunk.js",
+    "static/js/2.cce8b632.chunk.js.map": "/graphinfo/static/js/2.cce8b632.chunk.js.map",
+    "index.html": "/graphinfo/index.html",
+    "precache-manifest.a0bbea1d4a1da29929d83a75c0fde1ad.js": "/graphinfo/precache-manifest.a0bbea1d4a1da29929d83a75c0fde1ad.js",
+    "service-worker.js": "/graphinfo/service-worker.js",
+    "static/js/2.cce8b632.chunk.js.LICENSE.txt": "/graphinfo/static/js/2.cce8b632.chunk.js.LICENSE.txt",
+    "static/media/eth.png": "/graphinfo/static/media/eth.73dabb37.png",
+    "static/media/logo.svg": "/graphinfo/static/media/logo.f14b1d2f.svg",
+    "static/media/logo_white.svg": "/graphinfo/static/media/logo_white.0e48903e.svg",
+    "static/media/wordmark_white.svg": "/graphinfo/static/media/wordmark_white.3a8f3f28.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e53b7929.js",
+    "static/js/2.cce8b632.chunk.js",
+    "static/js/main.4df621c5.chunk.js"
+  ]
+}
